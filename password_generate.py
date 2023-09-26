@@ -1,8 +1,3 @@
-
-
-
-
-
 import random
 import string
 import tkinter as tk
